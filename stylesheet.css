@@ -202,6 +202,26 @@ a {
     width: 80vw;
 }
 
+/* ## Milestones ## */
+
+.milestone {
+    width: 70vw;
+}
+
+.negFiveMargin{
+    margin-bottom:-5vw;
+}
+
+#twentytwo {
+    margin-bottom:-5vw;
+}
+
+.path {
+    margin-bottom:-5vw;
+    width: 20vw;  
+}
+
+
 /* ## Other ## */
 
 @keyframes studentFadeIn {
